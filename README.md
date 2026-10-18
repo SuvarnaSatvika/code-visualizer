@@ -1,4 +1,5 @@
 # Code Visualizer
+<img width="1898" height="851" alt="image" src="https://github.com/user-attachments/assets/53d084b8-ba59-4d9f-9de5-ccefcf998a9f" />
 
 Code Visualizer is a full-stack, AI-driven educational platform designed to help students conceptually map and trace Python execution. It bridges the gap between static source code and dynamic runtime state by converting Python logic into interactive node-graph execution paths, enriched with Retrieval-Augmented Generation (RAG) pedagogical insights.
 
